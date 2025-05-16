@@ -20,3 +20,29 @@ Para compilar o projeto, use o seguinte comando no terminal, dentro da pasta `Pr
 
 ```bash
 make
+```
+
+## Execução
+Após a compilação, execute o programa com:
+
+```bash
+./build/banco
+```
+
+## Funcionalidades
+- Criar clientes e contas bancárias
+- Realizar depósitos e saques
+- Consultar saldo
+
+## Exemplo de Uso
+Ao executar o programa, ele mostrará testes automáticos que demonstram todas as funcionalidades implementadas, como:
+
+- Criação de uma conta bancária vinculada a um cliente
+- Depósito de valores
+- Saques com verificação de saldo
+- Impressão de informações e saldos no terminal
+
+## Autor
+Vinicius Marques de Almeida   
+Aluno de Tecnologia da informação – UFRN  
+Projeto desenvolvido para a disciplina de Linguagem de Programação I 
